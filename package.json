@@ -1,0 +1,23 @@
+{
+  "name": "frontendperformance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "mocha-test": "mocha tests/testWithMocha.js --timeout 60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "lighthouse": "^11.0.0",
+    "mocha": "^10.2.0",
+    "node": "^20.4.0",
+    "puppeteer": "^20.9.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "description": ""
+}
