@@ -1,5 +1,5 @@
 {
-    "BASEURL": "https://qa-opt.idfcfirstbank.com/login",
+    "BASEURL": "https://uat-opt.idfcfirstbank.com/login",
     "MOBILE":"9159548742",
-    "PASSWORD":"Idfc@2024"
+    "PASSWORD":"Token@2023"
 }
